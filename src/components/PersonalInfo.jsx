@@ -18,7 +18,7 @@ const PersonalInfoStyled = styled.section.attrs(() => ({
 const PersonalImg = styled.img`
   max-width: 140px;
   @media only screen and (min-width: 768px) {
-    max-width: 60%;
+    max-width: 30%;
   }
 `;
 const PersonalContainer = styled.div`
@@ -64,6 +64,7 @@ const PersonalContactBlock = styled.div`
   color: var(--colorTitle);
 `;
 const PersonalLink = styled.a`
+  padding: 0.5rem;
   margin-left: 1rem;
   text-decoration: none;
   color: var(--colorTitle);

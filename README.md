@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/hGzlpQkW81pt08VzGqzn">
       Solution
     </a>
     <span> | </span>
@@ -46,7 +46,7 @@
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [Workflow Webpack @cqrlosArch](https://github.com/cqrlosArch/workflow-gulp)
+- [Workflow Webpack @cqrlosArch](https://github.com/cqrlosArch/workflowBrowserSync)
 - [React](https://es.reactjs.org/)
 - [Styled Components](https://styled-components.com/)
 - [Webpack](https://webpack.js.org/)
