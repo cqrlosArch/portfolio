@@ -1,0 +1,10 @@
+import './assets/favicon.ico';
+import './assets/apple-touch-icon180.png';
+import './assets/favicon_32x32.png';
+import './assets/hobbie1.jpg';
+import './assets/hobbie2.jpg';
+import './assets/hobbie3.jpg';
+import './assets/9tec.webp';
+import './assets/logo-feval.png';
+import './assets/sun.svg';
+import './assets/moon.svg';

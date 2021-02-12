@@ -1,0 +1,112 @@
+[
+  {
+    "id": "0",
+    "path": "responsive",
+    "imagen": "https://raw.githubusercontent.com/cqrlosArch/recipe-page/main/screenshot.PNG",
+    "tags": ["html", "CSS", "responsive"],
+    "title": "Recipe Blog",
+    "text": "Página de recetas siguiendo el diseño dado. La página es responsive",
+    "urlDemo": "https://recipe-page.cqrlosarch.vercel.app/",
+    "urlCode": "https://github.com/cqrlosArch/recipe-page"
+  },
+  {
+    "id": "1",
+    "path": "responsive",
+    "imagen": "https://raw.githubusercontent.com/cqrlosArch/my-gallery-grid/main/screenshot.png",
+    "tags": ["html", "CSS", "responsive"],
+    "title": "My Gallery",
+    "text": "Una página estática tipo Galería de fotos con HTML y CSS. The design is from devchallenge.io",
+    "urlDemo": "https://my-gallery-grid.cqrlosarch.vercel.app/",
+    "urlCode": "https://github.com/cqrlosArch/my-gallery-grid"
+  },
+  {
+    "id": "2",
+    "path": "responsive",
+    "imagen": "https://raw.githubusercontent.com/cqrlosArch/checkout-page/main/screenshot.png",
+    "tags": ["html", "CSS", "responsive"],
+    "title": "Checkout",
+    "text": "Página de checkout y validación de datos desde formulario. El diseño es de devchallenge.io",
+    "urlDemo": "https://checkout-page.cqrlosarch.vercel.app/",
+    "urlCode": "https://github.com/cqrlosArch/checkout-page"
+  },
+  {
+    "id": "3",
+    "path": "responsive",
+    "imagen": "https://raw.githubusercontent.com/cqrlosArch/my-team-page/main/screenshot.PNG",
+    "tags": ["html", "CSS", "responsive"],
+    "title": "My team page",
+    "text": ": Página de equipo de trabajo con fotos e información. Responsive. El diseño es de devchallenge.io",
+    "urlDemo": "https://my-team-page.cqrlosarch.vercel.app/",
+    "urlCode": "https://github.com/cqrlosArch/my-team-page"
+  },
+  {
+    "id": "4",
+    "path": "responsive",
+    "imagen": "https://raw.githubusercontent.com/cqrlosArch/404-not-found/main/screenshot.PNG",
+    "tags": ["html", "CSS", "responsive"],
+    "title": "404 Not Found",
+    "text": "Página 404 responsive y funcional",
+    "urlDemo": "https://404-not-found.cqrlosarch.vercel.app/",
+    "urlCode": "https://github.com/cqrlosArch/404-not-found"
+  },
+  {
+    "id": "5",
+    "path": "responsive",
+    "imagen": "https://raw.githubusercontent.com/cqrlosArch/interior-consultant-responsive/main/screenshot.png",
+    "tags": ["html", "CSS", "responsive"],
+    "title": "Interior Consultant",
+    "text": "Página de diseño actual y moderno responsive",
+    "urlDemo": "https://interior-consultant.cqrlosarch.vercel.app/",
+    "urlCode": "https://github.com/cqrlosArch/interior-consultant-responsive"
+  },
+  {
+    "id": "6",
+    "path": "responsive",
+    "imagen": "https://raw.githubusercontent.com/cqrlosArch/edie-homepage/main/screenshot.png",
+    "tags": ["html", "CSS", "responsive"],
+    "title": "Edie homepage",
+    "text": "Homepage completa, estática y responsive. El diseño es de devchallenge.io",
+    "urlDemo": "https://edie-homepage.cqrlosarch.vercel.app/",
+    "urlCode": "https://github.com/cqrlosArch/edie-homepage"
+  },
+  {
+    "id": "7",
+    "path": "react",
+    "imagen": "https://raw.githubusercontent.com/cqrlosArch/windbnb-app/main/screenshot.png",
+    "tags": ["jsx", "styles-components", "responsive", "react"],
+    "title": "Windbnb",
+    "text": "Este proyecto es similar a la web airbnb. Realizado con React",
+    "urlDemo": "https://windbnb-app.cqrlosarch.vercel.app/",
+    "urlCode": "https://github.com/cqrlosArch/windbnb-app"
+  },
+  {
+    "id": "8",
+    "path": "react",
+    "imagen": "https://raw.githubusercontent.com/cqrlosArch/todo-app/main/screenshot.png",
+    "tags": ["jsx", "styles-components", "responsive", "react"],
+    "title": "Todo app",
+    "text": "Proyecto todo-list realizado con react siguiendo las últimas funcionalidades",
+    "urlDemo": "https://todo-app.cqrlosarch.vercel.app/",
+    "urlCode": "https://github.com/cqrlosArch/todo-app"
+  },
+  {
+    "id": "9",
+    "path": "react",
+    "imagen": "https://raw.githubusercontent.com/cqrlosArch/quote-generator/main/screenshot.png",
+    "tags": ["jsx", "styles-components", "responsive", "react"],
+    "title": "Random quote generator",
+    "text": "Proyecto react consultando API externa",
+    "urlDemo": "https://quote-generator.cqrlosarch.vercel.app/",
+    "urlCode": "https://github.com/cqrlosArch/quote-generator"
+  },
+  {
+    "id": "10",
+    "path": "nodejs",
+    "imagen": "https://raw.githubusercontent.com/cqrlosArch/image-uploader/main/screenshot.png",
+    "tags": ["styles-components", "firebase", "react"],
+    "title": "Image Uploader",
+    "text": "Projecto realizado con nodejs, react y firebase para guardar imágenes en remoto.",
+    "urlDemo": "https://image-uploader-six.vercel.app/",
+    "urlCode": "https://github.com/cqrlosArch/image-uploader"
+  }
+]
